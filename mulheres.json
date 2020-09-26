@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nome": "Ada Lovelace",
+        "descricão":"Tida como primeira programada do história. Apaixonada por matemática"     
+    },
+
+    {
+        "id": 2,
+        "nome": "Grace Murray Hopper",
+        "descricão":"Ph.D. em matemática, analista de sistema e propulsora de estudos sobre compiladores de dados"
+
+    },
+
+    {
+        "id": 3,
+        "nome": "Radia Perlman",
+        "descricão":"Considera a mãe da internet, designer de software e engenheira der redes "
+   
+    },
+
+    {
+        "id": 4,
+        "nome": "Nina Silva",
+        "descricão":"Executiva de TI, sócia e fundadora do Movimento Black Money"
+   
+    },
+
+    {
+        "id": 5,
+        "nome": "Margaret Heafield Hamilton",
+        "descricão":"Cientista de computação resposável por desenvolver o conceito moderno de software e criou o programa de voo utilizado no Apolo 11"
+   
+    },
+
+    {
+        "id": 6,
+        "nome": "Sil Bahia",
+        "descricão":"Criou o PretaLab, um guarda-chuva de iniciativas voltadas para mulheres negras dentro da área de tecnologia"
+   
+    },
+
+    {
+        "id": 7,
+        "nome": "Maitê Lourenço",
+        "descricão":"Fundadora do BlackRocks Startup, que incentiva empreendedores negora a acessarem o ecossistema de inovação, tecnologia e startup"
+   
+    },
+
+    {
+        "id": 8,
+        "nome": "Carol Shaw",
+        "descricão":"Engenheira de software para microprocessadores, conhecida por ser a primeira mulher a trabalhar na indústria dos games"
+   
+    },
+
+    {
+        "id": 9,
+        "nome": "Roberta Williams",
+        "descricão":"Foi fundadora da On-line Systems, que mais tarde, se tornaria s Sierra"
+   
+    }    
+
+    
+]
